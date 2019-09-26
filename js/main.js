@@ -1,5 +1,5 @@
 $(".landing").ripples({
-    dropRadius: 30,
-    perturbance: 0.08,
-    resolution: 900
+    dropRadius: 20,
+    perturbance: 0.02,
+    resolution: 512
 });
