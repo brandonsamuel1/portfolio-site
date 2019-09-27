@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $(".landing").ripples({
+    $(".wrapper").ripples({
         dropRadius: 20,
         perturbance: 0.02,
         resolution: 512
