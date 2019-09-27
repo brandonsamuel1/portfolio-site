@@ -13,6 +13,23 @@ body {
     color: white;
 }
 
-.banner {
-    margin: 0 auto;
+.container-fluid {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner h1 {
+    font-family: 'Patua One', cursive;
+    font-size: 70px;
+    font-weight: 500px;
+}
+
+.banner p {
+    font-family: 'Patua One', cursive; 
+    font-size: 30px;
+    margin-top: 20px;
 }
